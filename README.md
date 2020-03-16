@@ -9,7 +9,13 @@
 
 ## Study
 
+- 2/14
+  - 스터디 일정 계획 및 진행 회의
+  
 - 3/13
+  - 딥러닝 / 머신러닝에 필요한 배경지식 학습 및 공유
+  
+- 3/20 (v1)
   - [CNN](https://github.com/JONGSKY/DL_study/tree/master/v1/jongsky)
   
   
