@@ -15,7 +15,7 @@
 - 3/13
   - 딥러닝 / 머신러닝에 필요한 배경지식 학습 및 공유
   
-- 3/20 (v1)
+- 3/20 -> 변경예정 (v1)
   - [CNN](https://github.com/JONGSKY/DL_study/tree/master/v1/jongsky)
   - [GAN](https://github.com/JONGSKY/AI_study/tree/master/v1/muk)
   - [Random Forest](https://github.com/JONGSKY/AI_study/tree/master/v1/jiwon)
