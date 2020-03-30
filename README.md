@@ -19,11 +19,6 @@
   - [CNN](https://github.com/JONGSKY/DL_study/tree/master/v1/jongsky)
   - [GAN](https://github.com/JONGSKY/AI_study/tree/master/v1/muk)
   - [Random Forest](https://github.com/JONGSKY/AI_study/tree/master/v1/jiwon)
-  
-- 4/ (v2)
-  - 
-  - 
-  - 
 
 ## Member Notice
 
