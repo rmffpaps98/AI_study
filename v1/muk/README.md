@@ -1,6 +1,5 @@
-# Deep Learning Study
+# AI Study
 
-- 스터디 일정
-
-- 3월 13일 첫 발표
+1. GAN(Generative Adversarial Network)
+- 적대적 생성 모델
 
