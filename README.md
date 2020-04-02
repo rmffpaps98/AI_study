@@ -21,7 +21,7 @@
   - [Random Forest](https://github.com/JONGSKY/AI_study/tree/master/v1/jiwon)
 
 - 4/14 예정 (v2)
-  - [Image Detection - Mask R-CNN](https://github.com/JONGSKY/AI_study/tree/master/v2/jongsky)
+  - [[Image Detection]Mask R-CNN](https://github.com/JONGSKY/AI_study/tree/master/v2/jongsky)
 
 ## Member Notice
 
