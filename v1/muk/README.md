@@ -1,5 +1,3 @@
-# AI Study
-
 # GAN(Generative Adversarial Network)
 
 정의
