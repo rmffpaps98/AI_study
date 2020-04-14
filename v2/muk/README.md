@@ -1,7 +1,7 @@
 # CycleGAN
 
 정의
-- GAN을 기반으로 한 이미지 변환 Network. Unpaired된 데이터 셋 A, B를 학습하고 AtoB와 BtoA 이미지 변환을 한다.
+- GAN을 기반으로 한 이미지 변환 Network. Unpaired된 데이터 셋 A, B를 학습하고 AtoB와 BtoA 이미지 변환을 한다. AtoB 이미지가 Original Image로 돌아갔을 때 이미지의 차이가 없어야 한다.
 
 핵심 아이디어
 
