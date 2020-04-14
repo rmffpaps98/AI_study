@@ -14,3 +14,8 @@
 
 - Cycle Consistency, X -> Y -> X 의 변환을 가능하게 한다. 정반대의 경우도 가능하다.
 
+# 결과
+
+![image](https://user-images.githubusercontent.com/56065194/79183454-7728d380-7e4c-11ea-94b1-1e0e1b6a42ef.png)
+
+
