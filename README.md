@@ -22,6 +22,7 @@
 
 - 4/21 예정 (v2)
   - [[Image Detection] Mask R-CNN](https://github.com/JONGSKY/AI_study/tree/master/v2/jongsky)
+  - [CycleGAN](https://github.com/JONGSKY/AI_study/tree/master/v2/muk)
 
 ## Member Notice
 
