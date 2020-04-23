@@ -20,9 +20,12 @@
   - [GAN](https://github.com/JONGSKY/AI_study/tree/master/v1/muk)
   - [Random Forest](https://github.com/JONGSKY/AI_study/tree/master/v1/jiwon)
 
-- 4/21 예정 (v2)
+- 4/23 (v2)
   - [[Image Detection] R-CNN](https://github.com/JONGSKY/AI_study/tree/master/v2/jongsky)
   - [CycleGAN](https://github.com/JONGSKY/AI_study/tree/master/v2/muk)
+  - [Decision Tree](https://github.com/JONGSKY/AI_study/tree/master/v2/jiwon)
+  
+- 5/7 예정 (v3)
 
 ## Member Notice
 
